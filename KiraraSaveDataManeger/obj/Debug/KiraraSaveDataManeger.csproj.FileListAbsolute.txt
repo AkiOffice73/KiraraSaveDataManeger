@@ -1,0 +1,10 @@
+C:\dev\project\KiraraSaveDataManeger\KiraraSaveDataManeger\bin\Debug\KiraraSaveDataManeger.exe.config
+C:\dev\project\KiraraSaveDataManeger\KiraraSaveDataManeger\bin\Debug\KiraraSaveDataManeger.exe
+C:\dev\project\KiraraSaveDataManeger\KiraraSaveDataManeger\bin\Debug\KiraraSaveDataManeger.pdb
+C:\dev\project\KiraraSaveDataManeger\KiraraSaveDataManeger\obj\Debug\KiraraSaveDataManeger.csprojResolveAssemblyReference.cache
+C:\dev\project\KiraraSaveDataManeger\KiraraSaveDataManeger\obj\Debug\KiraraSaveDataManeger.Form1.resources
+C:\dev\project\KiraraSaveDataManeger\KiraraSaveDataManeger\obj\Debug\KiraraSaveDataManeger.Properties.Resources.resources
+C:\dev\project\KiraraSaveDataManeger\KiraraSaveDataManeger\obj\Debug\KiraraSaveDataManeger.csproj.GenerateResource.Cache
+C:\dev\project\KiraraSaveDataManeger\KiraraSaveDataManeger\obj\Debug\KiraraSaveDataManeger.csproj.CoreCompileInputs.cache
+C:\dev\project\KiraraSaveDataManeger\KiraraSaveDataManeger\obj\Debug\KiraraSaveDataManeger.exe
+C:\dev\project\KiraraSaveDataManeger\KiraraSaveDataManeger\obj\Debug\KiraraSaveDataManeger.pdb
