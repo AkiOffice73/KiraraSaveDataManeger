@@ -112,5 +112,10 @@ namespace KiraraSaveDataManeger
             textBox1.Text = tmpStr.Substring(0, 1) + GoldName[sleGoldIndex] + tmpStr.Substring(1);
 
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

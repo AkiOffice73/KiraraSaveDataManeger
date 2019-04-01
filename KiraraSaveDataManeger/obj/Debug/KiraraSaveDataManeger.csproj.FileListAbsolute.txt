@@ -8,3 +8,13 @@ C:\dev\project\KiraraSaveDataManeger\KiraraSaveDataManeger\obj\Debug\KiraraSaveD
 C:\dev\project\KiraraSaveDataManeger\KiraraSaveDataManeger\obj\Debug\KiraraSaveDataManeger.csproj.CoreCompileInputs.cache
 C:\dev\project\KiraraSaveDataManeger\KiraraSaveDataManeger\obj\Debug\KiraraSaveDataManeger.exe
 C:\dev\project\KiraraSaveDataManeger\KiraraSaveDataManeger\obj\Debug\KiraraSaveDataManeger.pdb
+E:\GitHub\KiraraSaveDataManeger\KiraraSaveDataManeger\bin\Debug\KiraraSaveDataManeger.exe.config
+E:\GitHub\KiraraSaveDataManeger\KiraraSaveDataManeger\bin\Debug\KiraraSaveDataManeger.exe
+E:\GitHub\KiraraSaveDataManeger\KiraraSaveDataManeger\bin\Debug\KiraraSaveDataManeger.pdb
+E:\GitHub\KiraraSaveDataManeger\KiraraSaveDataManeger\obj\Debug\KiraraSaveDataManeger.csprojAssemblyReference.cache
+E:\GitHub\KiraraSaveDataManeger\KiraraSaveDataManeger\obj\Debug\KiraraSaveDataManeger.Form1.resources
+E:\GitHub\KiraraSaveDataManeger\KiraraSaveDataManeger\obj\Debug\KiraraSaveDataManeger.Properties.Resources.resources
+E:\GitHub\KiraraSaveDataManeger\KiraraSaveDataManeger\obj\Debug\KiraraSaveDataManeger.csproj.GenerateResource.cache
+E:\GitHub\KiraraSaveDataManeger\KiraraSaveDataManeger\obj\Debug\KiraraSaveDataManeger.csproj.CoreCompileInputs.cache
+E:\GitHub\KiraraSaveDataManeger\KiraraSaveDataManeger\obj\Debug\KiraraSaveDataManeger.exe
+E:\GitHub\KiraraSaveDataManeger\KiraraSaveDataManeger\obj\Debug\KiraraSaveDataManeger.pdb
